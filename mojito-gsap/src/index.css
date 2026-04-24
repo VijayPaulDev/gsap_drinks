@@ -7,6 +7,10 @@
     src: url("/fonts/Modern Negra Demo.ttf") format("truetype");
 }
 
+nav {
+  background: red !important;
+}
+
 @theme {
     --color-yellow: #e7d393;
     --color-white-100: #efefef;
@@ -65,7 +69,7 @@ body {
     }
 
     nav {
-        @apply fixed z-50 w-full;
+        @apply fixed z-[9999] w-full;
 
         div {
             @apply flex md:flex-row flex-col md:justify-between items-center gap-5 py-5 lg:px-0 px-5 container mx-auto;
