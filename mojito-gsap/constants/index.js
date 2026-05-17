@@ -22,25 +22,25 @@ const cocktailLists = [
 	name: "Chapel Hill Shiraz",
 	country: "AU",
 	detail: "Battle",
-	price: "$10",
+	price: "600rs",
  },
  {
 	name: "Caten Malbee",
 	country: "AU",
 	detail: "Battle",
-	price: "$49",
+	price: "2040rs",
  },
  {
 	name: "Rhino Pale Ale",
 	country: "CA",
 	detail: "750 ml",
-	price: "$20",
+	price: "990rs",
  },
  {
 	name: "Irish Guinness",
 	country: "IE",
 	detail: "600 ml",
-	price: "$29",
+	price: "1300rs",
  },
 ];
 
@@ -49,25 +49,25 @@ const mockTailLists = [
 	name: "Tropical Bloom",
 	country: "US",
 	detail: "Battle",
-	price: "$10",
+	price: "800rs",
  },
  {
 	name: "Passionfruit Mint",
 	country: "US",
 	detail: "Battle",
-	price: "$49",
+	price: "3000rs",
  },
  {
 	name: "Citrus Glow",
 	country: "CA",
 	detail: "750 ml",
-	price: "$20",
+	price: "2300rs",
  },
  {
 	name: "Lavender Fizz",
 	country: "IE",
 	detail: "600 ml",
-	price: "$29",
+	price: "4500rs",
  },
 ];
 
@@ -102,10 +102,10 @@ const goodLists = [
 
 const storeInfo = {
  heading: "Where to Find Us",
- address: "456, Raq Blvd. #404, Los Angeles, CA 90210",
+ address: "road no: 10, grimpur, moula ali",
  contact: {
-	phone: "(555) 987-6543",
-	email: "hello@jsmcocktail.com",
+	phone: "98 77713 954",
+	email: "gsap@cocktail.com",
  },
 };
 
